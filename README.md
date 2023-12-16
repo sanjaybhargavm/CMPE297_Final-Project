@@ -2,12 +2,19 @@
 
 <h2> Team Spartans</h2>
 Sanjay Bhargav Madamanchi
+
 Ravi Teja Reddy Dodda
+
 Harika Satti
+
 Tanuja Reddy Maligireddy
 
 
+
 <h2>Project Deliverables</h2>
+<h3>Datasets</h3>
+https://drive.google.com/drive/folders/1gNqOWmuvAoYjRRrD6aAKoqjHCZnnaq-R?usp=sharing
+
 <h3>a. Colab Link</h3>
 https://colab.research.google.com/drive/1pfAXJ4SQ4gbQXsclLTR2u1XZWE26yGL6?usp=sharing
 <h3>b. Presentation Link</h3>
