@@ -1,16 +1,23 @@
 # House Interior Prediction
 
+<h2> Team Spartans</h2>
+Sanjay Bhargav Madamanchi
+Ravi Teja Reddy Dodda
+Harika Satti
+Tanuja Reddy Maligireddy
+
+
 <h2>Project Deliverables</h2>
 <h3>a. Colab Link</h3>
-
+https://colab.research.google.com/drive/1pfAXJ4SQ4gbQXsclLTR2u1XZWE26yGL6?usp=sharing
 <h3>b. Presentation Link</h3>
-
+https://gamma.app/docs/Predictive-Interior-Design-Assessment-Framework-for-Real-Estate-O-fwdhy53fu1aqfja?mode=doc
 
 <h3>c. Video Demo Link</h3>
-
+https://youtu.be/gI2Fe52SN30
 
 <h3>d. Project Report Link</h3>
-
+https://docs.google.com/document/d/10O2h_jk-wcztxYAi504b2LmrKI7f7fHTuKBaOEGL5oQ/edit?usp=sharing
 
 <h3>f. References</h3>
 [1] XI LIU, CLIO ANDRIS “Inside 50,000	living rooms: an assessment of global residential ornamentation using transfer learning” article published by, Article. 4, AUGUST 2019.
