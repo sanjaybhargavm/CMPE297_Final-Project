@@ -4,9 +4,7 @@
 Sanjay Bhargav Madamanchi
 
 Ravi Teja Reddy Dodda
-
 Harika Satti
-
 Tanuja Reddy Maligireddy
 
 
